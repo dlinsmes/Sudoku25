@@ -102,7 +102,7 @@ public class Puzzles {
 
 
     } ;
-    static int [][] getBoard(int boardNum) {
+    public static int [][] getBoard(int boardNum) {
         int [][] board = boards[boardNum];
         int [][] b = new int [9][9];
         for (int i = 0; i < 9; i++)

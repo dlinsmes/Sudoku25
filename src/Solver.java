@@ -14,6 +14,7 @@ public class Solver {
         s.nextLine();
 
         //your code goes here
+
     }
 
 
